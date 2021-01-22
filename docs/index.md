@@ -1,3 +1,12 @@
+
+<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.md">Home</a></li>
+						</ul>
+					</nav>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/polimi-ispl/speech_reconstruction_embeddings/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -26,7 +35,6 @@ Syntax highlighted code block
 [Link](url) and 
 ```
 ![Image](images/home/pipeline_1.png)
-![](audio/LJ049-0209.wav)
 
 <audio controls>
 <source src="audio/LJ049-0209.wav" type="audio/mpeg">
