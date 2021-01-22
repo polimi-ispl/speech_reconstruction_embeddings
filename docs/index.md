@@ -1,17 +1,15 @@
 
 <nav id="menu">
-						<h2>Menu</h2>
-						<ul>
-							<li><a href="index.md">Home</a></li>
-						</ul>
-					</nav>
+	<h2>Menu</h2>
+	<ul>
+		<li><a href="docs/index.md">Home</a></li>
+	</ul>
+</nav>
 
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/polimi-ispl/speech_reconstruction_embeddings/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The complete understanding of the decision-makingprocess  of  Convolutional  Neural  Networks  (CNNs)  is  far  frombeing fully reached. Many researchers proposed techniques to in-terpret what a network actually “learns” from data. Neverthelessmany  questions  still  remain  unanswered.  In  this  work  we  studyone  aspect  of  this  problem  by  reconstructing  speech  from  theintermediate  embeddings  computed  by  a  CNNs.  Specifically,  weconsider  a  pre-trained  network  that  acts  as  a  feature  extractorfrom  speech  audio.  We  investigate  the  possibility  of  invertingthese  features,  reconstructing  the  input  signals  in  a  black-boxscenario,  and  quantitatively  measure  the  reconstruction  qualityby measuring the word-error-rate of an off-the-shelf ASR model.Experiments  performed  using  two  different  CNN  architecturestrained for six different classification tasks, show that it is possibleto   reconstruct   time-domain   speech   signals   that   preserve   thesemantic content, whenever the embeddings are extracted beforethe  fully  connected  layers.
 
 ### Markdown
 
