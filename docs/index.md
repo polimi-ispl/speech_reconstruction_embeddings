@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Reconstructing speech from CNN embeddings
 ---
+
 
 ## Introduction
 
