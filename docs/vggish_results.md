@@ -1,6 +1,6 @@
 ---
 permalink: /vggish_results
-layout: page
+layout: default
 title: VGGish results
 ---
 
