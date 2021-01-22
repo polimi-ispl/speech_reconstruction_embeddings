@@ -1,18 +1,7 @@
 
-<nav id="menu">
-	<h2>Menu</h2>
-	<ul>
-		<li><a href="index.md">Home</a></li>
-	</ul>
-	<h2>Menu</h2>
-	<ul>
-		<li><a href="vggish_results.md">Home</a></li>
-	</ul>
-</nav>
-
 <details>
 <summary>Menu</summary>
-<ul><li>[Home](index.md)</li>
+<ul><li><a href=index.md>Home</a></li>
 <li>[Vggish results](vggish_results.md)</li></ul>
 <li>[SmallEnc results](smallenc_results.md)</li></ul> 
 </details>
