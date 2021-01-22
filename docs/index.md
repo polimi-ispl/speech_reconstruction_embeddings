@@ -28,6 +28,11 @@ Syntax highlighted code block
 ![Image](images/home/pipeline_1.png)
 ![](audio/LJ049-0209.wav)
 
+<audio controls>
+<source src="audio/LJ049-0209.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
