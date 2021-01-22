@@ -2,7 +2,11 @@
 <nav id="menu">
 	<h2>Menu</h2>
 	<ul>
-		<li><a href="docs/index.md">Home</a></li>
+		<li><a href="index.md">Home</a></li>
+	</ul>
+	<h2>Menu</h2>
+	<ul>
+		<li><a href="vggish_results.md">Home</a></li>
 	</ul>
 </nav>
 
