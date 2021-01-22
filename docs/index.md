@@ -10,6 +10,13 @@
 	</ul>
 </nav>
 
+<details>
+<summary>Menu</summary>
+<ul><li>[Home](index.md)</li>
+<li>[Vggish results](vggish_results.md)</li></ul>
+<li>[SmallEnc results](smallenc_results.md)</li></ul> 
+</details>
+
 
 ## Welcome to GitHub Pages
 
