@@ -4,10 +4,6 @@ The complete understanding of the decision-making process  of  Convolutional  Ne
 
 ### Method
 
-
-
-[Link](url) and 
-```
 ![Image](images/home/pipeline_1.png)
 
 <audio controls>
@@ -16,6 +12,8 @@ Your browser does not support the audio element.
 </audio>
 
 ### Results
+
+
 
 
 ### Support or Contact
