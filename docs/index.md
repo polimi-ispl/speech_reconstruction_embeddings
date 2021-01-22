@@ -1,7 +1,7 @@
 
 <details>
-<summary>Menu</summary>
-<ul><li><a href=index.md>Home</a></li>
+<summary>## Menu</summary>
+<ul><li>[Home](index.md)</li>
 <li>[Vggish results](vggish_results.md)</li></ul>
 <li>[SmallEnc results](smallenc_results.md)</li></ul> 
 </details>
