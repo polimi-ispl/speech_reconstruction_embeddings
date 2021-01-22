@@ -14,7 +14,7 @@ Your browser does not support the audio element.
 ### Results
 
 
-|[VGGish](https://github.com/)||[SmallEnc](https://github.com/)|
+|[VGGish](https://github.com/)|[SmallEnc](https://github.com/)|
 |---|---|
 
 
