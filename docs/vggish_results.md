@@ -1,7 +1,7 @@
 ---
-permalink: /vggish_results
 layout: default
-title: VGGish results
+title: VGGish Results
+description: This is just another page
 ---
 
 ## Introduction
