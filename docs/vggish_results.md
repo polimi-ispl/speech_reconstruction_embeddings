@@ -6,6 +6,16 @@ description: This is just another page
 
 ## Ground-truth
 
+![Image](images/vggish/ground_truth.png)
+
+<audio controls>
+<source src="audio/LJ049-0209.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+commission was not asked to apply itself as did the closure commission in nineteen four
+
+
 ## Layer 0 - shape (48 X 32 X 64)
 
 * ### RecCNN
