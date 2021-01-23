@@ -16,7 +16,7 @@ description: This is just another page
 * RecCNN
 * RecGAN
 
-# Layer 2 shape (12 X 8 X 266)
+# Layer 2 shape (12 X 8 X 256)
 
 * RecCNN
 * RecGAN
