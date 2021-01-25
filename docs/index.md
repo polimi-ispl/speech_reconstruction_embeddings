@@ -21,8 +21,8 @@ Your browser does not support the audio element.
 
 
 <p align=center>
-  <a href="/speech_reconstruction_embeddings/vggish_results.html" class="btn",style="color:blue">VGGish</a> 
-  <a href="/speech_reconstruction_embeddings/smallenc_results.html" class="btn">SmallEnc</a> 
+  <a href="/speech_reconstruction_embeddings/vggish_results.html" class="btn_body">VGGish</a> 
+     <a href="/speech_reconstruction_embeddings/smallenc_results.html" class="btn">SmallEnc</a> 
 </p>
 
 <a href="/speech_reconstruction_embeddings/vggish_results.html" class="btn">VGGish</a>
