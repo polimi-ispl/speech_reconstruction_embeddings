@@ -76,13 +76,14 @@ body {
   line-height: var(--line-height);
 }
 */
-h1 {
+
+/*h1 {
   margin-bottom: calc(var(--space) * 3);
   font-family: var(--font-heading);
   font-size: calc(var(--font-size) + 6vmin);
   line-height: calc(var(--line-height) / 1.25);
 }
-
+*/
 .main-navigation-toggle {
   position: fixed;
   height: 1px; 
