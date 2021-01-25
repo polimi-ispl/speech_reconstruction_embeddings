@@ -21,7 +21,8 @@ Your browser does not support the audio element.
 
 
 |[VGGish](/vggish_results.md)|[SmallEnc](https://github.com/)|
-|---|---|
+
+<a href="/speech_reconstruction_embeddings/vggish_results.html" class="btn">VGGish</a>
 
 
 
