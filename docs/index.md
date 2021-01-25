@@ -20,7 +20,10 @@ Your browser does not support the audio element.
 ### Results
 
 
-|[VGGish](/vggish_results.md)|[SmallEnc](https://github.com/)|
+<p align=center>
+  <a href="/speech_reconstruction_embeddings/vggish_results.html" class="btn">VGGish</a> 
+  <a href="/speech_reconstruction_embeddings/smallenc_results.html" class="btn">SmallEnc</a> 
+</p>
 
 <a href="/speech_reconstruction_embeddings/vggish_results.html" class="btn">VGGish</a>
 
