@@ -74,7 +74,7 @@ $bezier: cubic-bezier(0.75, 0, 0.25, 1);
     width: 15px;
     height: 10px;
     margin: 40px;
-    color: hotpink;
+    color: black;
     &::before {
       content: '';
       position: absolute;
@@ -82,7 +82,7 @@ $bezier: cubic-bezier(0.75, 0, 0.25, 1);
       left: -5px;
       bottom: -5px;
       right: -5px;
-      background: hotpink;
+      background: black;
       opacity: 0;
       z-index: -1;
       transition: opacity 0.3s $bezier;
@@ -163,7 +163,7 @@ $bezier: cubic-bezier(0.75, 0, 0.25, 1);
     bottom: 0;
     right: 0;
     z-index: -1;
-    background: hotpink;
+    background: black;
     font-size: 4rem;
     
     padding: 40px;
@@ -218,7 +218,7 @@ main {
     font-size: 3rem;
     font-weight: normal;
     span {
-      color: hotpink;
+      color: black;
     }
   }  
   p {
