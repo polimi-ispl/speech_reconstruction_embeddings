@@ -226,6 +226,8 @@ main {
 
 
 /* MENU 2 */
+nav > ul {margin: 0} % Avoid menu spacing
+
 
 $gradient-start :#ed6ea0;
 $gradient-end :#ec8c69;
