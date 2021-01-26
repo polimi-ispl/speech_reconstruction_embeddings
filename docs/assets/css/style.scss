@@ -55,7 +55,7 @@
 
 
 
-/* MENU 2 */
+/* MENU 2 Author: Vincent Durand https://freefrontend.com/css-dropdown-menus/*/
 nav > ol {margin: 0} /* Avoid menu spacing */
 
 
@@ -215,7 +215,7 @@ $gradient-end :#ec8c69;
 }
 @media(max-width: 45rem){
   .menu{
-    background-image: linear-gradient(to bottom, $gradient-start 0%, $gradient-end 100%);
+    background-image: linear-gradient(to bottom, $header-bg-color-secondary, $header-bg-color);
     a{
       font-size:1.4rem;
       padding: 1rem 0.5rem;
